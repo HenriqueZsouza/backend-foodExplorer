@@ -9,7 +9,7 @@ class DishesController {
         const checkDishAlreadyExists = await knex("dishes").where({ title }).first()
 
         if (checkDishAlreadyExists) {
-            throw new AppError("Este prato já existe no cardápio.")
+            throw new AppError("Este prato já existe no cardápio!")
         }
 
         const imageFileName = request.file.filename
