@@ -31,7 +31,7 @@ npm run dev
 O terminal exibirá o endereço local onde a API está sendo executada. O endereço padrão é:
 http://localhost:3333/
 
-Nota: A API só está disponível para rodar em localhost. Para isso, você precisa clonar o repositório do frontend, disponível em:
+Nota: Caso queira rodar em localhost, você precisa clonar o repositório do frontend, disponível em:
 [frontend-foodExplorer](https://github.com/HenriqueZsouza/frontend-foodExplorer)
 
 Siga as instruções disponíveis no repositório!
