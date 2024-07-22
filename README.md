@@ -28,3 +28,7 @@ Aplicação só está disponível para rodar em localhost, para isso você preci
  https://github.com/HenriqueZsouza/frontend-foodExplorer
 
 Siga as instruções disponiveis no repositório!
+
+A versão em produção pode ser conferida no seguinte endereço:
+
+https://app-foodexplorer.netlify.app/
